@@ -1,7 +1,7 @@
 def friendly_lamp():
-    print("Привет! Я твой дружелюбный светильник.")
-    name = input("Как тебя зовут? ")
-    print(f"Приятно познакомиться, {name}! Надеюсь, у тебя сегодня отличный день.")
+    print("Hello! I'm your friendly lamp.")
+    name = input("What's your name? ")
+    print(f"Nice to meet you, {name}! I hope you have a great day.")
 
 if __name__ == "__main__":
     friendly_lamp()
